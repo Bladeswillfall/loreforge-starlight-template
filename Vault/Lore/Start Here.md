@@ -13,4 +13,4 @@ Welcome to the public codex.
 
 This page is written in Obsidian, filtered by frontmatter, then published through Astro Starlight.
 
-Try reading about the [[Example Faction]].
+Begin with the [[Example Faction]], meet the [[Example Character]], visit the [[Example Location]], or review the [[Example Event]].

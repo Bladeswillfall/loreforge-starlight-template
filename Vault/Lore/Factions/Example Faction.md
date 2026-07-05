@@ -1,6 +1,6 @@
 ---
 title: Example Faction
-description: A sample faction page used to test the publishing pipeline.
+description: "A sample faction page used to test the publishing pipeline."
 publish: true
 status: canon
 slug: factions/example-faction
@@ -18,6 +18,6 @@ The Example Faction exists to demonstrate how a faction note can link to a chara
 
 ## Connections
 
-- Member: [Example Character](/characters/example-character/)
-- Base: [Example Location](/locations/example-location/)
-- Defining event: [Example Event](/events/example-event/)
+- Member: [[Example Character]]
+- Base: [[Example Location]]
+- Defining event: [[Example Event]]

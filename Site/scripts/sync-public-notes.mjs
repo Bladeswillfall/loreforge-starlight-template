@@ -5,7 +5,7 @@ import fg from 'fast-glob';
 import matter from 'gray-matter';
 
 const siteRoot = process.cwd();
-const sourceDir = path.resolve(siteRoot, process.env.LORE_SOURCE_DIR ?? '../Lore');
+const sourceDir = path.resolve(siteRoot, process.env.LORE_SOURCE_DIR ?? '../Vault/Lore');
 const outDir = path.resolve(siteRoot, 'src/content/docs');
 
 function slugify(input) {
